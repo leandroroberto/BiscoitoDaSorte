@@ -1,3 +1,3 @@
-#Iniciando os estudos em React Native
+# Iniciando os estudos em React Native
 
-Primeiro app Clássico de Biscoito da Sorte.
+## Primeiro app Clássico de Biscoito da Sorte.
